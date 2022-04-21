@@ -5,7 +5,6 @@
 
 #### `nvm debug` output:
 <details>
-<!-- do not delete the following blank line -->
 
 ```sh
 
@@ -34,8 +33,6 @@
 <!--  (e.g. `.bashrc`, `.bash_profile`, `.zshrc`, etc) -->
 
 <!-- Please remove the following section if it does not apply to you -->
-#### If you are having installation issues, or getting "N/A", what does `curl -I --compressed -v https://nodejs.org/dist/` print out?
-<details>
 <!-- do not delete the following blank line -->
 
 ```sh
